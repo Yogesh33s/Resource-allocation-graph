@@ -1,3 +1,6 @@
+live at https://yogesh33s.github.io/Resource-allocation-graph/
+
+
 # Resource Allocation Graph Simulator
 
 The **Resource Allocation Graph Simulator** is a web-based tool designed to simulate and analyze resource allocation graphs (RAGs). It allows users to model processes and resources, add edges to represent requests or allocations, and check for potential deadlocks in the system.
